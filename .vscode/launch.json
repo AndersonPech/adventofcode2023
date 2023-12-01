@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/ander/OneDrive/Desktop/aoc/Day2",
-      "program": "c:/Users/ander/OneDrive/Desktop/aoc/Day2/build/Debug/outDebug",
+      "cwd": "c:/Users/ander/OneDrive/Desktop/aoc/Day1/part2",
+      "program": "c:/Users/ander/OneDrive/Desktop/aoc/Day1/part2/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
